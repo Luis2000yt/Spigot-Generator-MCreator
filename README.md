@@ -11,7 +11,7 @@ This project is not official. It is not affiliated with the respective owners an
 * Procedures (Partial support)
 
 ## Information
-- Make sure you use MCreator 2023.3 2nd snapshot or a newer version
+- Make sure you use MCreator 2025.2 or a newer version
 - Back up your workspace before updating to a newer version of the plugin.
 - Plugins also require [Spigot](https://getbukkit.org/download/spigot) to function properly.
 - 

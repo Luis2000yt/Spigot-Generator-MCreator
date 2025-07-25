@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.2
+* Updated to Minecraft 1.21.4
+* Compatible with MCreator 2025.2
+
+## 1.1
+* Updated to Minecraft 1.20.4
+* Compatible with MCreator 2023.4
+
 ## 1.0
 * Updated to Minecraft 1.20.1 (mappings included)
 * Ported the command mod element to the new system
