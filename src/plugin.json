@@ -1,5 +1,6 @@
 {
   "id": "generator-spigot-1.21.4",
+  "builtin": false,
   "minversion": 202500233711,
   "info": {
     "name": "Minecraft Spigot 1.21.4 Generator",
