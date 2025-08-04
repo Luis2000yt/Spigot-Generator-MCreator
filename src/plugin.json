@@ -1,4 +1,5 @@
 {
+  "builtin": false,
   "id": "generator-spigot-1.21.4",
   "minversion": 202500233711,
   "info": {
